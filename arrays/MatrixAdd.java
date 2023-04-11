@@ -2,6 +2,8 @@ package arrays;
 
 import java.util.Scanner;
 
+
+// here we are taking inputs for 1st and 2nd array from user & then performing addition on two arrays respectively.
 public class MatrixAdd {
 
 	public static void main(String[] args) {
